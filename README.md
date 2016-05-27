@@ -1,11 +1,12 @@
-Java Code Styles
+Java/Android  Code Styles and lint
 ================
 
-IntelliJ IDEA code style settings for Neosoft's Java and Android projects.
+IntelliJ IDEA code style settings for Java and Android studio projects.
 
+The [code styles](https://source.android.com/source/code-style.html) below are strict rules, not guidelines or recommendations. Contributions to Android that do not adhere to these rules are generally not accepted. We recognize that not all existing code follows these rules, but we expect all new code to be compliant.
 
 Installation
-------------
+-------------
 
  * On Unix, run the `install.sh` script. Windows users should use `install.bat` instead.
  * Restart IntelliJ if it's running.
