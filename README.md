@@ -5,6 +5,8 @@ IntelliJ IDEA code style settings for Java and Android studio projects.
 
 The [code styles](https://source.android.com/source/code-style.html) below are strict rules, not guidelines or recommendations. Contributions to Android that do not adhere to these rules are generally not accepted. We recognize that not all existing code follows these rules, but we expect all new code to be compliant.
 
+In addition to testing that your Android application meets its functional requirements, it's important to ensure that your code has no structural problems. Poorly structured code can impact the reliability and efficiency of your Android apps and make your code harder to maintain. 
+
 Install jar and configure:
 ----------------------
 
