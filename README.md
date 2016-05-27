@@ -8,7 +8,7 @@ The [code styles](https://source.android.com/source/code-style.html) below are s
 Install jar and configure:
 ----------------------
 
-    Import **settings.jar** into Android Studio. It defines our coding standard.
+    Import settings.jar into Android Studio. It defines our coding standard.
     you just need to use File -> Import Settings option in Android Studio.
 
 Or Install using script
@@ -39,7 +39,7 @@ android {
     }
 ```
 
-To manually run inspections in Android Studio, from the application or right-click menu, choose **Analyze > Inspect Code**. The Specify Inspections* Scope dialog appears so you can specify the desired inspection scope and profile.
+To manually run inspections in Android Studio, from the application or right-click menu, choose **`Analyze > Inspect Code`**. The Specify Inspections* Scope dialog appears so you can specify the desired inspection scope and profile.
 
 License
 -------
